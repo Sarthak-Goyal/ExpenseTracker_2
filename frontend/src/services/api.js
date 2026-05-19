@@ -1,3 +1,4 @@
+// Author: Sarthak Goyal
 import axios from 'axios';
 
 /**

@@ -1,3 +1,4 @@
+// Author: Sarthak Goyal
 const mysql = require('mysql2/promise');
 
 /**

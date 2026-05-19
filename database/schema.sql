@@ -1,3 +1,4 @@
+-- Author: Sarthak Goyal
 -- ─────────────────────────────────────────────────────────────────
 -- Personal Expense Tracker V2 — MySQL Schema
 -- Run this entire file in MySQL Workbench to set up the database.

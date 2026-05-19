@@ -1,3 +1,4 @@
+// Author: Sarthak Goyal
 /**
  * SummaryCards — shows total income, total expenses, and balance
  * computed from the currently visible (filtered) entries.

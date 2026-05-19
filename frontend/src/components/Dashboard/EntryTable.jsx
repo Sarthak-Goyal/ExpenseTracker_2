@@ -1,3 +1,4 @@
+// Author: Sarthak Goyal
 /**
  * EntryTable — renders the list of expense/income entries.
  * Props:

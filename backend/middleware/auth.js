@@ -1,3 +1,4 @@
+// Author: Sarthak Goyal
 const jwt = require('jsonwebtoken');
 
 /**

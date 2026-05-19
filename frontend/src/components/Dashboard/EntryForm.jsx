@@ -1,3 +1,4 @@
+// Author: Sarthak Goyal
 import { useState, useEffect } from 'react';
 
 const CATEGORIES = ['salary', 'groceries', 'utilities', 'entertainment', 'other'];
